@@ -242,15 +242,114 @@
 // console.log(typeof(c));
 // console.log(typeof(d));
 
-let a = 5 < 6;
-let b = 5 > 6;
-let c = 5 >= 6;
-let d = 5 === 6;
-let e = 10 === 10;
-let f = 10 <= 10;
-let g = 10 > 10;
-let h = 10 < 10;
-let i = 10 !== 10;
-let j = 123 === "123";
-let k = 123 == "123";
-console.log(a, b, c, d, e, f, g, h, i, j, k);
+// class
+
+// let a = 5 < 6;
+// let b = 5 > 6;
+// let c = 5 >= 6;
+// let d = 5 === 6;
+// let e = 10 === 10;
+// let f = 10 <= 10;
+// let g = 10 > 10;
+// let h = 10 < 10;
+// let i = 10 !== 10;
+// let j = 123 === "123";
+// let k = 123 == "123";
+// console.log(a, b, c, d, e, f, g, h, i, j, k);
+
+
+// let srt = "Привет";
+// console.log(typeof(srt));
+//
+// let num = 123;
+// console.log(typeof(num));
+//
+// let flag = true;
+// console.log(typeof(flag));
+//
+// let txt = "true";
+// console.log(typeof(txt));
+
+
+// let a1 = 5 + 3;
+// console.log(a1);
+//
+// let a2 = 5 - 3;
+// console.log(a2);
+//
+// let a3 = 5 * 3;
+// console.log(a3);
+//
+// let a4 = 5 / 3;
+// console.log(a4);
+//
+// let a5 = 5 % 3;
+// console.log(a5);
+
+
+// let a6 = 5 % 3;
+// console.log(a6);
+//
+// let a7 = 3 % 5;
+// console.log(a7);
+//
+// let a8 = 5 + "3";
+// console.log(a8);
+//
+// let a9 = "5" - 3;
+// console.log(a9);
+//
+// let a10 = 75 + "kg"
+// console.log(a10);
+
+
+// let height = 23;
+// let width = 10;
+// let s = height*width;
+//
+// console.log(s);
+
+
+// let heightC = 10;
+// let dC = 4;
+// let v = 3.14*dC*heightC;
+// console.log(v);
+
+
+// let n = 3;
+// let m = 4;
+// let k = (Math.pow(n,2) + Math.pow(m, 2));
+// console.log(k);
+
+
+// let str = "Hello World"
+// console .log(str);
+// document.write(str);
+// alert(str);
+
+
+// let info = "Skrypnyk Andriy Ivanovuch\n19";
+// alert (info);
+
+
+// let str1 = prompt ("Enter first name");
+// let str2 = prompt("Enter second name");
+// console.log(str1 + str2);
+
+
+// let str1 = "Who";
+// let str2 = "you";
+// let str3 = "are?";
+// let concatenation = str1 + " " + str2 + " " + str3;
+// document.write(concatenation,);
+
+
+// let str1 = prompt  ("Enter number 1");
+// let str2 = prompt  ("Enter number 2");
+// let result = (str1 + str2);
+// alert(result);
+
+
+// let str1 = prompt("Введіть ім'я та прізвище");
+// let str2 = prompt( "Скільки вам років");
+// alert ("Доброго вечора " + str1 + " мої вітання що вам " + str2)
