@@ -148,8 +148,7 @@
 // - взять массив из задания 6,в цикле перебрать его объекты превратив их в json .
 
 // for (let i = 0; i < arr.length; i++) {
-//     const arrElement = arr[i];
-//     console.log(JSON.stringify(arrElement));
+//     console.log(JSON.stringify(arr[i]));
 // }
 
 
@@ -168,13 +167,11 @@
 // let newArr = [];
 //
 // for (const user of users) {
-//     console.log(user.name);
 //     for (const skill of user.skills) {
-//
+//         newArr.push(skill);
 //     }
 // }
 // console.log(newArray);
-
 
 // let users = [{
 //     name: 'vasya',
